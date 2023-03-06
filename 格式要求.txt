@@ -1,0 +1,17 @@
+Worker：
+workerId：10位数字
+telephonenumber：必须是正常的11位手机号码
+workerName：1~15位字母
+salary：1~10位数字
+
+
+Goods:
+goodNumber:1~10位数字
+rackId：1位大写字母+4位数字 A1527
+goodType：1~10位英文字母
+goodId：后台自动生成，4位数字
+
+
+
+Warehouse：
+warehouseId：后台自动生成，4位数字

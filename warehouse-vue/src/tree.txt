@@ -1,0 +1,15 @@
+卷 OS 的文件夹 PATH 列表
+卷序列号为 5015-D509
+C:.
+├─assets
+│  └─img
+│      ├─bg
+│      ├─books
+│      └─icon
+├─components
+│  ├─common
+│  ├─home
+│  ├─pages
+│  └─Show
+├─router
+└─store
